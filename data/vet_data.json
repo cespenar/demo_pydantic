@@ -1,0 +1,60 @@
+[
+  {
+    "first_name": "Luke",
+    "last_name": "Skywalker",
+    "phone_number": 123666456,
+    "email": "luke@skywalker.com",
+    "pets": [
+      {
+        "name": "Yoda",
+        "species": "cat",
+        "weight_kg": 5.8,
+        "birthday": "2009-07-12",
+        "allergies": [
+          "soy",
+          "beef"
+        ],
+        "chip": true,
+        "chip_number": 1234567890
+      },
+      {
+        "name": "Artoo",
+        "species": "dog",
+        "weight_kg": 27.8,
+        "birthday": "2020-02-23",
+        "chip": true,
+        "chip_number": 9876543211
+      }
+    ]
+  },
+  {
+    "first_name": "Kylo",
+    "last_name": "Ren",
+    "phone_number": "+16102347689",
+    "pets": [
+      {
+        "name": "Rey",
+        "species": "cat",
+        "weight_kg": 3,
+        "chip": "true"
+      },
+      {
+        "name": "Pumpkin",
+        "species": "cat",
+        "chip": false,
+        "birthday": "2015-06-01",
+        "weight_kg": "7.2"
+      }
+    ]
+  },
+  {
+    "first_name": "Lilo",
+    "pets": [
+      {
+        "name": "Stitch",
+        "species": "dog",
+        "chip": false
+      }
+    ]
+  }
+]
